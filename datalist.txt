@@ -1,1 +1,1 @@
-[]
+[["abandon","accelerate","accommodate","accomplish","accumulate","accurate","acknowledge","acquire","adapt","adequate","adjacent","advocate","aggregate","allocate","alter","ambiguous","analyze","anticipate","apparent","approach","appropriate","assemble","assess","assign","assist","assume","assure","attach","attain","attribute","authorize","aware","behalf","bias","brief","capable","capacity","cease","challenge","channel","chart","circumstance","cite","civil","clarify","coherent","coincide","collapse","colleague","commence","comment"]]
